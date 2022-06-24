@@ -13,6 +13,9 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+
+//COMMENTS FOR QUESTION 5 GITHUB COMMENTS
+
 public class UserProfile 
 {
     
